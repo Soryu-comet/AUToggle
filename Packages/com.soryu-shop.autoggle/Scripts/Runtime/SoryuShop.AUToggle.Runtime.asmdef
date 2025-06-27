@@ -1,0 +1,14 @@
+{
+    "name": "SoryuShop.AUToggle.Runtime",
+    "rootNamespace": "SoryuShop.AUToggle",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

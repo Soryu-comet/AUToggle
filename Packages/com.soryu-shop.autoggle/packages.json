@@ -1,0 +1,29 @@
+{
+  "name": "Soryu-Shop's Packages",
+  "id": "com.soryu-shop.vpm-listing",
+  "author": "Soryu-Shop",
+  "url": "（このJSONファイルをホストしているURL）/index.json",
+  "packages": {
+    "com.soryu-shop.autoggle": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.soryu-shop.autoggle",
+          "displayName": "AUToggle (おーとぐる)",
+          "version": "1.0.0",
+          "author": {
+            "name": "Soryu-Shop"
+          },
+          "description": "VRChatアバターのオブジェクトON/OFF（着脱）を簡単にセットアップするためのエディタ拡張ツールです。",
+          "unity": "2022.3",
+          "vpmDependencies": {
+            "nadena.dev.modular-avatar": ">=1.8.0"
+          },
+          "url": "（パッケージのZipファイルのダウンロードURL）/com.soryu-shop.autoggle-1.0.0.zip",
+          "legacyFolders": {
+            "Assets/SoryuShop/AUToggle/Generated": ""
+          }
+        }
+      }
+    }
+  }
+}
